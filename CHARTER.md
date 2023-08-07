@@ -112,7 +112,7 @@ TODO
 
 	-	i. commit that they have the available bandwidth to make the time to invest in the HF TSC,
 
-	-	ii. demonstrate an advanced level of professional experience as engineers in the scope of HF,
+	-	ii. demonstrate an advanced level of professional experience in the scope of HF,
 
 	-	iii. demonstrate seniority sufficient to access additional staff or community members to assist in their TSC preparations, and
     
