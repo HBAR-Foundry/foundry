@@ -4,13 +4,13 @@ Effective Jul 31 2023 / Updated Aug DD YYYY
 
 #### 1. Mission of the HBAR Foundry.
 
-The Foundry’s mission is to unite Hedera ecosystem stakeholders, promote tech adoption, foster collaboration, and drive sustainable economic prosperity, establishing Hedera as a global leader.
+The HBAR Foundry’s mission is to unite Hedera ecosystem stakeholders, promote Hedera-related tech adoption, foster collaboration, and drive sustainable economic prosperity (Milan: For who? What does this mean?), establishing Hedera as a global leader on Distributed Ledger Technology.
 
-Hedera is a decentralized, open-source, proof-of-stake public ledger that utilizes the leaderless, asynchronous Byzantine Fault Tolerance (aBFT) hashgraph consensus algorithm. It is governed by a collusion-resistant, decentralized council of leading enterprises, universities, and web3 projects from around the world.
+Hedera is a decentralized, open-source, proof-of-stake public ledger that utilizes the leaderless, asynchronous Byzantine Fault Tolerance (aBFT) hashgraph consensus algorithm. It is governed by a collusion-resistant, decentralized council of leading enterprises, universities, and web3 projects (Milan: Is it? I'd keep it to 'leading enterprises, universities and .. (NGO's?)) from around the world.
 
 #### 2. Role of the HBAR Foundry.
 
-The HBAR Foundry is the voice of the Hedera community, bringing together end-users, business owners, developers, marketing experts, and HBAR holders. Our roles include guiding the development of standards, evaluating and promoting projects, facilitating communication, and providing practical support through mentorship, education, and effective tools for everyone in the Hedera ecosystem.
+The HBAR Foundry is the voice of the Hedera builder community, bringing together end-users, business owners, developers, marketing experts, and HBAR holders. Our roles include guiding the development of standards, evaluating and promoting projects, facilitating communication, and providing practical support through mentorship, education, and effective tools for everyone in the Hedera ecosystem.
 
 -	(a) Standards
 
