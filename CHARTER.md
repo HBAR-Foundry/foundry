@@ -4,23 +4,23 @@ Effective Jul 31 2023 / Updated Aug DD YYYY
 
 #### 1. Mission of the HBAR Foundry.
 
-The Foundry’s mission is to unite Hedera ecosystem stakeholders, promote tech adoption, foster collaboration, and drive sustainable economic prosperity, establishing Hedera as a global leader.
+The HBAR Foundry’s mission is to unite Hedera ecosystem stakeholders, promote Hedera-related tech adoption, and foster collaboration, establishing Hedera as a global leader on Distributed Ledger Technology.
 
-Hedera is a decentralized, open-source, proof-of-stake public ledger that utilizes the leaderless, asynchronous Byzantine Fault Tolerance (aBFT) hashgraph consensus algorithm. It is governed by a collusion-resistant, decentralized council of leading enterprises, universities, and web3 projects from around the world.
+Hedera is a decentralized, open-source, proof-of-stake public ledger that utilizes the leaderless, asynchronous Byzantine Fault Tolerance (aBFT) hashgraph consensus algorithm. It is governed by a collusion-resistant, decentralized council of leading enterprises and universities from around the world.
 
 #### 2. Role of the HBAR Foundry.
 
-The HBAR Foundry is the voice of the Hedera community, bringing together end-users, business owners, developers, marketing experts, and HBAR holders. Our roles include guiding the development of standards, evaluating and promoting projects, facilitating communication, and providing practical support through mentorship, education, and effective tools for everyone in the Hedera ecosystem.
+The HBAR Foundry is the voice of the Hedera builder community, bringing together end-users, business owners, developers, marketing experts, and HBAR holders. Our roles include guiding the development of standards, evaluating and promoting projects, facilitating communication, and providing practical support through mentorship, education, and effective tools for everyone in the Hedera ecosystem.
 
 -	(a) Standards
 
-	-	i. Interoperability: Communities that actively contribute to technology standards help ensure interoperability between different software and systems. When projects adhere to common standards, they can seamlessly work together, reducing compatibility issues and fostering a more cohesive and integrated technology landscape. This, in turn, encourages collaboration and sharing of resources among developers and stakeholders, leading to accelerated innovation and problem-solving.
+	-	i. Promoting Interoperability: Communities that actively contribute to technology standards help ensure interoperability between different software and systems. When projects adhere to common standards, they can seamlessly work together, reducing compatibility issues and fostering a more cohesive and integrated technology landscape. This, in turn, encourages collaboration and sharing of resources among developers and stakeholders, leading to accelerated innovation and problem-solving.
 
-	-	ii. Community-driven Innovation: By contributing to technology standards, open source communities can influence the direction and evolution of the technology itself. Standards that are developed collaboratively and openly can reflect a wider range of perspectives and use cases. As a result, the technology becomes more robust, adaptable, and relevant to the needs of the community it serves. This democratization of standards development encourages creativity and empowers developers to build upon shared foundations, leading to a thriving ecosystem of innovative solutions.
+	-	ii. Enabling Community-driven Innovation: By contributing to technology standards, open source communities can influence the direction and evolution of the technology itself. Standards that are developed collaboratively and openly can reflect a wider range of perspectives and use cases. As a result, the technology becomes more robust, adaptable, and relevant to the needs of the community it serves. This democratization of standards development encourages creativity and empowers developers to build upon shared foundations, leading to a thriving ecosystem of innovative solutions.
 
 -	(b) Evaluating and Promoting Projects
 
-	-	i. Quality Assurance: As communities are often composed of passionate and knowledgeable individuals, their involvement in vetting projects ensures a higher standard of quality. By rigorously evaluating projects for code integrity, security, and adherence to best practices, they help identify potential issues early on, reducing the risk of faulty or subpar software entering the ecosystem. This commitment to quality assurance strengthens the overall reputation of the community and the projects associated with it.
+	-	i. Driving Quality Assurance: As communities are often composed of passionate and knowledgeable individuals, their involvement in vetting projects ensures a higher standard of quality. By rigorously evaluating projects for code integrity, security, and adherence to best practices, they help identify potential issues early on, reducing the risk of faulty or subpar software entering the ecosystem. This commitment to quality assurance strengthens the overall reputation of the community and the projects associated with it.
 
 	-	ii. Maintaining Trust and Reputation: Communities are built on trust, transparency, and collaboration. When they actively participate in vetting projects, it signals to users and stakeholders that the community takes its responsibility seriously. By promoting only well-vetted and reputable projects, the community can instill confidence in users and investors, leading to increased adoption and support for the ecosystem. Additionally, a strong reputation for vetting projects can attract more contributors and developers, enriching the talent pool and fostering a positive feedback loop of trust and growth.
 
@@ -34,7 +34,7 @@ The HBAR Foundry is the voice of the Hedera community, bringing together end-use
 
 	-	i. Empowering User Adoption and Contribution: Creating and maintaining a comprehensive set of libraries, tools, documentation, and SDKs enhances the accessibility and usability of open source projects. When these resources are readily available, developers and end-users can more easily adopt the Hedera and integrate it into their own projects. The provision of clear and extensive documentation also lowers the barriers for new contributors to join the community. As more users and contributors engage with the Hedera, it benefits from diverse perspectives, feedback, and contributions, leading to continuous improvement and innovation.
 
-	-	ii. Fostering Ecosystem Growth and Interoperability: Communities thrive on collaboration and the ability to work together effectively. By developing standardized libraries, tools, and SDKs, the community promotes consistency and interoperability among different projects. This uniformity streamlines integration processes, encouraging cross-collaboration and the creation of complementary tools. When diverse projects can seamlessly interact and build upon each other's work, it leads to a rich and interconnected ecosystem. Additionally, the availability of well-documented and well-maintained resources attracts developers and organizations to adopt the technology, further contributing to the ecosystem's growth and sustainability.
+	-	ii. Nurturing Ecosystem Growth and Interoperability: Communities thrive on collaboration and the ability to work together effectively. By developing standardized libraries, tools, and SDKs, the community promotes consistency and interoperability among different projects. This uniformity streamlines integration processes, encouraging cross-collaboration and the creation of complementary tools. When diverse projects can seamlessly interact and build upon each other's work, it leads to a rich and interconnected ecosystem. Additionally, the availability of well-documented and well-maintained resources attracts developers and organizations to adopt the technology, further contributing to the ecosystem's growth and sustainability.
 
 #### 3. Values.
 
@@ -46,11 +46,18 @@ The HF will strive to adhere to the following principles:
 
 -	(c) Productive honesty. We don't "drink the kool-aid", we speak openly about the good and bad, but with the goal of improving overall.
 
--	(d) Ego-free. We take the perspective of what is best for the Hedera Hashgraph ecosystem as a whole. Foundry members may have differing opinions, and at times may even be competitors, but we will proceed in our doings so as not to create conflicts of interest. When conflicts arise, we resolve them amicably, for the good of the HBAR community.
+-	(d) Ego-free. We take the perspective of what is best for the Hedera ecosystem as a whole. Foundry members may have differing opinions, and at times may even be competitors, but we will proceed in our doings so as not to create conflicts of interest. When conflicts arise, we resolve them amicably, for the good of the Hedera community. 
 
 #### 4. Membership.
 
 TODO
+
+Milan: 
+- Entities or individuals can become a member by contacting the HBAR Foundry; we reserve the right to approve or deny applications, looking for a good 'fit' (how to ensure that we dont just get everyone in the foundry & make sure that people still free to express their thoughts?)
+- Different categories of memberships:
+ - Full members; contributing to the foundry, part of a project building on Hedera or has skills/experience related to Hedera
+ - Outreachers; voice of the foundry, influencers like andy, brandon, coinman, etc. Willing to post 1 weekly/monthly HF recap message. They wont be active part of HF, but one of our marketing 'channels'
+ - Key enablers; Swirlds, The HBAR Foundation, The Hashgraph association, The DLT Science Foundation, Hedera, etc. Core ecosystem entities that can enable financial inputs, technical developments, governance direction and have a big interest to be in direct contact with grassroots. A monthly meeting with them to communicate challenges/solutions/proposals. Concise, to the point, and result driven.
 
 #### 5. Governing Board
 
@@ -218,11 +225,11 @@ The participants in HF shall:
 
 -	(c) respect the rights of all trademark owners, including any branding and usage guidelines;
 
--	(d) engage The HBAR Foundry for all press and analyst relations activities;
+-	(d) engage the HBAR Foundry for all press and analyst relations activities;
 
--	(e) upon request, provide information regarding project participation, including information regarding attendance at project-sponsored events, to The HBAR Foundry;
+-	(e) upon request, provide information regarding project participation, including information regarding attendance at project-sponsored events, to the HBAR Foundry;
 
--	(f) engage The HBAR Foundry for any websites directly for the community; and
+-	(f) engage the HBAR Foundry for any websites directly for the community; and
 
 -	(g) operate under such rules and procedures as may from time to time be approved by the TSC, provided that such rules and procedures shall not be inconsistent with the purpose and policies of the HBAR Foundry and shall not be detrimental to the HBAR Foundry.
 
