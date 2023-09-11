@@ -59,11 +59,7 @@ Milan:
  - Outreachers; voice of the foundry, influencers like andy, brandon, coinman, etc. Willing to post 1 weekly/monthly HF recap message. They wont be active part of HF, but one of our marketing 'channels'
  - Key enablers; Swirlds, The HBAR Foundation, The Hashgraph association, The DLT Science Foundation, Hedera, etc. Core ecosystem entities that can enable financial inputs, technical developments, governance direction and have a big interest to be in direct contact with grassroots. A monthly meeting with them to communicate challenges/solutions/proposals. Concise, to the point, and result driven.
 
-#### 5. Governing Board
-
-TODO
-
-#### 6. Technical Steering Committee (“TSC”)
+#### 5. Technical Steering Committee (“TSC”)
 
 -	(a) Mandate. The TSC is expected to facilitate driving neutral consensus for:
 
@@ -147,7 +143,7 @@ TODO
 
 		-	d. identifying immediate gaps that require further investigation
 
-#### 7. HF Projects
+#### 6. HF Projects
 
 -	(a) It is expected that member companies, and open source community members will bring project assets to the TSC for discussion and inclusion into the HF. All such contributions should meet a set criteria created by the TSC. The goal is to have an increasing bazaar of projects related to and that integrate with projects already accepted into the HF.
 
@@ -185,7 +181,7 @@ TODO
 
 -	(e) New open source projects initiated in the HF shall complete a project proposal template adopted by the TSC and be approved by the TSC for inclusion in the HF. The TSC members shall be afforded sufficient time to discuss and review new project proposals. New project proposals shall include details of the roles in the project, the governance proposed for the project and identify alignment with the HF’s role and values.
 
-#### 8. IP Policy
+#### 7. IP Policy
 
 -	(a) Any project that is added to the HF must have ownership of its trademark and logo assets transferred to the HBAR Foundry.
 
@@ -201,21 +197,11 @@ TODO
 
 -	(g) If an alternative inbound or outbound license is required for compliance with the license for a leveraged open source project or is otherwise required to achieve the HF’s mission, the TSC may approve the use of an alternative license for inbound or outbound contributions on an exception basis.
 
-#### 9. Code of Conduct
+#### 8. Code of Conduct
 
 -	(a) All participants agree to abide by The HBAR Foundry Code of Conduct available at TODO.
 
-#### 10. Budget
-
-TODO
-
-#### 11. General & Administrative Expenses
-
--	(a) TODO shall have custody of any fees, funds and other cash receipts.
-
--	(b) A General & Administrative (G&A) fee will be applied to funds raised to cover Finance, Accounting and operations. The G&A fee shall equal 9% of HF’s first \$1,000,000 of gross receipts and 6% of HF’s gross receipts over \$1,000,000.
-
-#### 17. General Rules and Operations.
+#### 9. General Rules and Operations.
 
 The participants in HF shall:
 
@@ -233,6 +219,6 @@ The participants in HF shall:
 
 -	(g) operate under such rules and procedures as may from time to time be approved by the TSC, provided that such rules and procedures shall not be inconsistent with the purpose and policies of the HBAR Foundry and shall not be detrimental to the HBAR Foundry.
 
-#### 18. Amendments
+#### 10. Amendments
 
 This charter may be amended by a two-thirds vote (excluding abstentions) of all TSC members, provided that any such amendments shall not be inconsistent with the purpose or policies of the HBAR Foundry and shall not be detrimental to the HBAR Foundry.
